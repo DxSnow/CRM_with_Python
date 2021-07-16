@@ -1,4 +1,4 @@
-A program that stores customer information including:
+A program using Tkinter and sqlite3 that stores customer information including:
 Name
 email
 address
